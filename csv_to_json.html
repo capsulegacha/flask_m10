@@ -1,0 +1,19 @@
+HTML dari csv to json:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV to JSON</title>
+</head>
+
+<body>
+    <h2>Upload a CSV file to convert to JSON</h2>
+    <form action="/csv_to_json/" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".csv" required>
+        <button type="submit">Convert to JSON</button>
+    </form>
+</body>
+
+</html>
