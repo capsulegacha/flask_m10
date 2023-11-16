@@ -2,6 +2,7 @@
 Tugas Algoritma Pemrograman II TM 10 mengenai Web Programming Menggunakan Python dan Flask.
 
 File tugasm10.py berada di dalam folder proyek flask (projectflask).
+
 File submit_form.html bersifat bebas namun saya letakkan di dalam folder projectflask.
 
 File yang berada di dalam folder 'template':
